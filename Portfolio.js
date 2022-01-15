@@ -1,8 +1,8 @@
-// function Myclick() {
-//     var x = document.getElementById("Myskills")
-//     if (x.style.display === "none") {
-//         x.style.display = "block";
-//     } else {
-//         x.style.display = "none";
-//     }
-// }
+function Myclick(x) {
+} if (x == 0) {
+    document.getElementById("mySkills").style.display='block';
+} else {
+    document.getElementById("mySkills").style.display='none';
+    return
+}
+    
