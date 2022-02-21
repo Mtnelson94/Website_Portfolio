@@ -5,4 +5,5 @@ function Myclick(x) {
     document.getElementById("mySkills").style.display='none';
     return
 }
-    
+
+menu = jmenu = ("mySkills")
